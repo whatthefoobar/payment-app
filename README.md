@@ -1,3 +1,10 @@
+To do:
+-add style to the list items added
+-be able to cross edit or delete list item
+  -create backend and use mongodb db/firebase to store list item data
+
+  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
